@@ -7,12 +7,33 @@ Denial of Service attack
 
 
 >> cd Desktop
+
+
+
 >> mkdir loic
+
+
+
 >> wget https://raw.github.com/nicolargo/loicinstaller/master/loic.sh
+
+
+
 >> chmod 777 loic.sh
+
+
+
 >> ./loic.sh install
+
+
+
 >> ./loic.sh update
+
+
+
 >> apt-get install mono-gmcs
+
+
+
 >> ./loic.sh run
 
 

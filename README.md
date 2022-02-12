@@ -37,9 +37,19 @@ Denial of Service attack
 >> ./loic.sh run
 
 
-Then a LOIC GUI will be opened.]
+Then a LOIC GUI will be opened.
+
+
 Then copy and paste or type the website name or enter the IP.
+
+
 Then enter the type of attack - TCP attack
+
+
 Select time delay
+
+
 Select launch attack
+
+
 Have Fun!

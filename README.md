@@ -3,6 +3,9 @@ Denial of Service attack
 
 # Linux commands:
 >> apt install git-core monodevelop
+
+
+
 >> cd Desktop
 >> mkdir loic
 >> wget https://raw.github.com/nicolargo/loicinstaller/master/loic.sh
